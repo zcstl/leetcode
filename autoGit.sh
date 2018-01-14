@@ -1,4 +1,4 @@
 #!/bin/sh
 git add *
 git commit -m "auto c"
-git push
+git push -u origin master
